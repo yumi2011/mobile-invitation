@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Mild-Mix-Noodle :)
+
+This is a private blog to share my memories and experiences.
+
+### List Candidate
+- Design From A
+- Programming From A
+  - Debugging
+- Language
+  - Korean
+  - English
+  - Japanese
+  - Chinese
+  - German
+- Excercise
+- Startup
+- The Lesson I Learned Today
+
+-----------
 
 You can use the [editor on GitHub](https://github.com/yumi2011/mild-mix-noodle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
