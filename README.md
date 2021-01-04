@@ -1,4 +1,4 @@
-## Welcome to Mild-Mix-Noodle :)
+## Welcome to mobile-invitation :)
 
 This is a private blog to share my memories and experiences.
 
@@ -12,8 +12,6 @@ This is a private blog to share my memories and experiences.
   - Japanese
   - Chinese
   - German
-- Excercise
-- Startup
 - The Lesson I Learned Today
 
 -----------
